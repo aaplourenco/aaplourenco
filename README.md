@@ -1,4 +1,4 @@
-# ## Sobre Mim 👩‍💻🌟
+# Sobre Mim 👩‍💻🌟
 
 👋 Olá! Eu sou Ana Lourenço, uma entusiasta da programação em integração de carreira, empolgada em mergulhar no mundo do desenvolvimento web. Estou focada em aprender e aprimorar minhas habilidades em JavaScript, HTML, Java, Angular e outras tecnologias relacionadas.
 
