@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou Ana Paula Lourenço, uma apaixonada por tecnologia de 35 anos que encontra alegria na leitura, no estudo constante e na busca pela inovação. Estou atualmente estudando Análise e Desenvolvimento de Sistemas (ADS) na Unicesumar, entre outros cursos que me inspiram. Aqui está um pouco sobre mim:
+Sou Ana Paula Lourenço, uma apaixonada por tecnologia de 38 anos que encontra alegria na leitura, no estudo constante e na busca pela inovação. Estou atualmente estudando Análise e Desenvolvimento de Sistemas (ADS) na Unicesumar, entre outros cursos que me inspiram. Aqui está um pouco sobre mim:
 
 ## Sobre Mim
 
