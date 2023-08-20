@@ -41,7 +41,7 @@ Vamos juntos construir um futuro incrível através da tecnologia! ✨👩‍�
 </div>
 <br>
 
-<div align="center">
+<div align="">
   <a href="https://github.com/aaplourenco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaplourenco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
