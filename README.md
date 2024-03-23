@@ -5,13 +5,14 @@ Sou Ana Paula Lourenço, uma apaixonada por tecnologia de 38 anos que encontra a
 ## Sobre Mim
 
 - **Nome:** Ana Paula Lourenço
-- **Idade:** 38 anos
+- **Idade:** 39 anos
 - **Formação:** Graduanda em Análise e Desenvolvimento de Sistemas (ADS), Marketing, Criminologia e RP. Sou Bolsista em Tecnologia da Ciência da Felicidade na Unicesumar.
 
 ## Educação e Aprendizado
 
 - 📚 Vivo a empolgação de aprimorar minhas habilidades em desenvolvimento de software e tecnologia:
-  - Estudando **Backend JavaScript** na Cubos Academy.
+  - Desenvolvedora **Backend JavaScript** formada pela Cubos Academy em parceria com o Ifood.
+  - Estudando **Frontend** na Cubos Academy
   - Explorando **Fullstack Java** e **Angular** na DIO.
 
 ## Paixão pela Tecnologia
