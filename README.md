@@ -6,7 +6,7 @@ Sou Ana Paula Lourenço, uma apaixonada por tecnologia de 38 anos que encontra a
 
 - **Nome:** Ana Paula Lourenço
 - **Idade:** 39 anos
-- **Formação:** Graduanda em Análise e Desenvolvimento de Sistemas (ADS), Marketing, Criminologia e RP. Sou Bolsista em Tecnologia da Ciência da Felicidade na Unicesumar.
+- **Formação:** Graduanda em Gestão da Tecnologia da Informação, Gestão da Qualidade, Administração e RP. Sou Bolsista em Tecnologia da Ciência da Felicidade na Unicesumar.
 
 ## Educação e Aprendizado
 
@@ -45,4 +45,4 @@ Vamos juntos construir um futuro incrível através da tecnologia! ✨👩‍�
 
 ---
 [perfil no GitHub](https://github.com/aaplourenco).
-*Última atualização: [19/08/2023]*
+*Última atualização: [25/03/2024]*
